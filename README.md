@@ -113,7 +113,7 @@ Everyone who has, in some way, helped me make this mod!
 - Testers: ![Snowhue](https://x.com/_snowhue), ![Luxudus](https://www.tumblr.com/luxudus), ![MayaModez](https://thunderstore.io/c/lethal-company/p/MayaModez/), ![eightstunningangles](https://www.youtube.com/watch?v=iwZBmmc9laY)<br>
 - First one to die on the moon (other than me): ![Snowhue](https://x.com/_snowhue)
 - Additional Help: ![Sniper1.1](https://thunderstore.io/c/lethal-company/p/Sniper1_1/), ![Skelaah](https://thunderstore.io/c/lethal-company/p/TheWildSkelaah/), ![pacoito](https://thunderstore.io/c/lethal-company/p/pacoito/), ![Kenji](https://thunderstore.io/c/lethal-company/p/rectorado/), ![Generic_GMD](https://thunderstore.io/c/lethal-company/p/Generic_GMD/), ![s1ckboy](https://thunderstore.io/c/lethal-company/p/s1ckboy/)
-- IT: ![dyzaaster](https://x.com/dyzaaster)<br>
+- IT: ![dyzaaster](https://youtube.com/@dyzaaster?si=q_jvsaiTYFYv8YKB)<br>
 - You!
 
 <h3> Tools </h3>
