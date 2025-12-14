@@ -1,8 +1,8 @@
 {
   "name": "962_Doline",
   "version_number": "0.1.0",
-  "website_url": "https://github.com/BADQUEST/962 Doline",
-  "description": "A swampy paradise teeming with life.",
+  "website_url": "https://github.com/BADQUEST/962-Doline",
+  "description": "The dark, flooded moon of Ordontol.",
   "dependencies": [
     "pacoito-LethalLevelLoaderUpdated-1.5.0",
     "mrov-AutoScroll-0.0.1",
