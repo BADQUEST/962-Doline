@@ -1,0 +1,14 @@
+{
+  "name": "962 Doline",
+  "version_number": "0.1.0",
+  "website_url": "https://github.com/BADQUEST/962 Doline",
+  "description": "A swampy paradise teeming with life.",
+  "dependencies": [
+    "pacoito-LethalLevelLoaderUpdated-1.5.0",
+    "mrov-AutoScroll-0.0.1",
+    "WhiteSpike-Moon_Day_Speed_Multiplier_Patcher-1.0.1",
+    "AudioKnight-StarlancerAIFix-3.11.1"
+    
+  ]
+
+}
