@@ -1,10 +1,12 @@
 {
   "name": "962_Doline",
-  "version_number": "0.1.0",
+  "version_number": "0.1.5",
   "website_url": "https://github.com/BADQUEST/962-Doline",
   "description": "The dark, flooded moon of Ordontol.",
   "dependencies": [
-    "pacoito-LethalLevelLoaderUpdated-1.5.0",
+    "IAmBatby-LethalLevelLoader-1.6.5",
+    "Scoops-LethalSponge-1.3.6",
+    "ScienceBird-Universal_Radar-1.2.3",
     "mrov-AutoScroll-0.0.1",
     "WhiteSpike-Moon_Day_Speed_Multiplier_Patcher-1.0.1",
     "AudioKnight-StarlancerAIFix-3.11.1"
