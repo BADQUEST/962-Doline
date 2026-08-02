@@ -1,54 +1,55 @@
-## 0.5.0: v81 Dust Off (nickname The Dore Update) 
+## 0.5.0: v81 Dust Off Update (nickname The Dore Update) 
 
 ### !! DISCLAIMER !!
 This will be the last content update before it's **rework**, emergency patches will still be made whenever needed.
 
-+ Added compatibility to Zehs' [ImmersiveEntrance](https://thunderstore.io/c/lethal-company/p/Zehs/ImmersiveEntrance)
++ Added compatibility to Zehs' (ImmersiveEntrance)[https://thunderstore.io/c/lethal-company/p/Zehs/ImmersiveEntrance/]
 + Added compatibility to Virtual Reality (Untested)
 + Added compatibility to Generic's new interiors
 + Added custom Contour map (Thanks Kenji!)
 + Ordontol now visually follows you
 + Minor map improvements
-+ Added weight values for Backwater Gunkfish <sub>**(58)**</sub> and Cadaver Bloom <sub>**(41)**</sub>
-___
-+ Re-Balanced Moon
++ Added weight values for Backwater Gunkfish and Cadaver Bloom
+    *Backwater Gunkfish*: 58
+    *Cavader Bloom*: 41
+^ Re-Balanced Moon
+     *Maneater*: 35 > 22
+     *Masked*: 22 > 35
 
-  **Interior Entities** <br/>
-     Maneater: 35 > 22 <br/>
-     Masked: 22 > 35 <br/>
+     *Forest Giant*: 31 > 23
+     *Old Bird*: 14 > 19
+     *Bracken*: 20 > 47
+^ Changed DayTimeMultiplier to 0.85 from 0.9
+^ Made the map darker
+^ Changed Weather variables
+    *Foggy*
+    Min: 10 > 25
+    Max: 40 > 30
 
-  **Outdoor Entities** <br/>
-  Forest Giant: 31 > 23 <br/>
-  Old Bird: 14 > 19 <br/>
-  Bracken: 20 > 47 <br/>
-
-+ Changed DayTimeMultiplier to 0.85 from 0.9
-+ Made the map darker
-+ Changed Weather variables
-
-    **Foggy** <br/>
-Min: 10 > 25 <br/>
-Max: 40 > 30 <br/>
-
-
-    **Eclipsed** <br/>
-    Spawn: 4 > 3 <br/>
-
-___
-+ Rewritten info and route nodes
-+ Fixed entities being unable to path through most areas of the moon (Thanks Xu!)
-+ Giant Sapsucker no longer camps one of the fire exits
-+ River now has more displacement (More waves)
-+ Tweaked orbit visuals
-+ Tweaked plane clip distances
-+ Edited Content Tags
-+ README changes
-
-## Removal
+    *Eclipsed*
+    Spawn: 4 > 3
+^ Rewritten info and route nodes
+* Fixed entities being unable to path through most areas of the moon (Thanks Xu!)
+* Giant Sapsucker no longer camps one of the fire exits
+= River now has more displacement (More waves)
+= Tweaked orbit visuals
+= Tweaked plane clip distances
+= Edited Content Tags
+= README changes
 - It is with deep sorrow that i inform you all of the passing of our beloved abomination **IT**, pay your respects
 - Removed UniversalRadar from dependency list
 
-<details><summary><strong>VERSION HISTORY</strong></summary>
+## Legend
+* + is an addition to the mod.
+    This is where Aditional information will be.
+
+* ^ is the edit of a main feature (Loot, Spawns etc).
+
+* * is a fix or patch.
+
+* = is the edit of a minor/internal feature.
+
+* - means the removal of something.
 
 
 ## 0.1.5: World's Smallest Patch 2: I swear i have to port this moon to my v81 project and im trying to alright
